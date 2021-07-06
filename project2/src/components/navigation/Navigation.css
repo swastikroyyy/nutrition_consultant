@@ -1,0 +1,13 @@
+.heading1 {
+  color: gray;
+  font-family: monospace;
+  font-size: 40px;
+  box-shadow: -30px #f1f1f1;
+}
+
+.heading2 {
+  color: gray;
+  font-family: monospace;
+  font-size: 20px;
+  font-style: italic;
+}

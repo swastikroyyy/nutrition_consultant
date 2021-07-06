@@ -1,0 +1,19 @@
+.search {
+  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+  width: 275px;
+  height: 40px;
+  border-radius: 20px;
+  outline: none;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  background-color: #f1f1f1;
+}
+.head {
+  background: #f1f1f1;
+}
