@@ -14,7 +14,7 @@ const Footer = () => {
 
             <b className="dev"  >
                 Developed & Maintained by
-                <a style={{ textDecoration: 'none' }} href=" https://www.facebook.com/swastik.royyy" target="_blank" >  Swastik Roy</a>
+                <a style={{ textDecoration: 'none' }} href="https://www.linkedin.com/in/swastik-roy-306702135/" target="blank" >  Swastik Roy</a>
             </b>
 
 

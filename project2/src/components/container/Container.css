@@ -69,3 +69,62 @@
   width: 45px;
   font-weight: bold;
 }
+
+/* @media (min-width: 1200px) {
+  .container,
+  .grid1,
+  .x,
+  .number,
+  .grams,
+  .food1,
+  .food {
+    width: 100%;
+  }
+}
+@media (max-width: 990px) {
+  .container,
+  .grid1,
+  .x,
+  .number,
+  .grams,
+  .food1,
+  .food {
+    width: 100%;
+  }
+}
+
+@media (max-width: 800px) {
+  .container,
+  .grid1,
+  .x,
+  .number,
+  .grams,
+  .food1,
+  .food {
+    width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .container,
+  .grid1,
+  .x,
+  .number,
+  .grams,
+  .food1,
+  .food {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .container,
+  .grid1,
+  .x,
+  .number,
+  .grams,
+  .food1,
+  .food {
+    width: 100%;
+  }
+} */
