@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nutrition_consultant/static/css/main.bcb6e05c.chunk.css",
+    "main.js": "/nutrition_consultant/static/js/main.311da579.chunk.js",
+    "main.js.map": "/nutrition_consultant/static/js/main.311da579.chunk.js.map",
+    "runtime-main.js": "/nutrition_consultant/static/js/runtime-main.83cb1cf7.js",
+    "runtime-main.js.map": "/nutrition_consultant/static/js/runtime-main.83cb1cf7.js.map",
+    "static/js/2.1ad2baca.chunk.js": "/nutrition_consultant/static/js/2.1ad2baca.chunk.js",
+    "static/js/2.1ad2baca.chunk.js.map": "/nutrition_consultant/static/js/2.1ad2baca.chunk.js.map",
+    "static/js/3.775f6a9f.chunk.js": "/nutrition_consultant/static/js/3.775f6a9f.chunk.js",
+    "static/js/3.775f6a9f.chunk.js.map": "/nutrition_consultant/static/js/3.775f6a9f.chunk.js.map",
+    "index.html": "/nutrition_consultant/index.html",
+    "static/css/main.bcb6e05c.chunk.css.map": "/nutrition_consultant/static/css/main.bcb6e05c.chunk.css.map",
+    "static/js/2.1ad2baca.chunk.js.LICENSE.txt": "/nutrition_consultant/static/js/2.1ad2baca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83cb1cf7.js",
+    "static/js/2.1ad2baca.chunk.js",
+    "static/css/main.bcb6e05c.chunk.css",
+    "static/js/main.311da579.chunk.js"
+  ]
+}
